@@ -4,3 +4,4 @@ b = 2
 c = 3
 # end
 e = b = c
+#hate class
